@@ -1,0 +1,125 @@
+﻿.html {
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0 !important;
+}
+.slain {
+    width: 80% !important;
+    margin: auto;
+}
+.content {
+    background-color: #f9e2be;
+    width: 79%;
+    margin: auto;
+}
+.section-title {
+    background-color: #fff;
+    display: inline-block;
+    width: 98.5%;
+    margin: auto;
+    border-top-width: 0.2rem;
+    border-top-style: solid;
+    border-top-color: rgb(255, 102, 153);
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 700;
+    color: #f69;
+    font-size: 1rem;
+    line-height: 2.563rem;
+}
+.slide {
+    width: 88.9%;
+    margin: auto;
+}
+.footer {
+    width: 80%;
+    margin: auto;
+}
+.head {
+    width: 83% !important;
+}
+.container {
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: 100% !important;
+}
+.up {
+    width: 100%;
+    height: auto;
+    background-color: #f9e2be;
+}
+.up img{
+    height: 7.5rem;
+    width: auto;
+}
+.slogan {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    text-shadow: 2px 3px 3px gray;
+}
+.modal-title {
+    text-align: center;
+}
+.money {
+    font-weight: bold;
+}
+.image {
+    background-color: #fff;
+}
+.image img{
+    height: 12.5rem;
+    width: 17.5rem;   
+    border-radius: 1rem;
+    margin-top: 1.25rem;    
+}
+.image input {
+    border-radius: 10px;
+    width: auto;
+    margin-bottom: 1.25rem;
+}
+.image button {
+    background-color: white;
+    border-radius: 10px;
+    width: auto;
+    margin-bottom: 1.25rem;
+}
+.image button i {
+    border-radius: 10px;
+}
+.catname {
+    font-family: 'Comfortaa', cursive;
+    font-size: 150%;
+    padding-top: 0.3rem;
+}
+.navbar {
+    background-color: #f9e2be;
+}
+body {
+    background-color: #f9e2be !important;
+}
+.shop {
+    font-family: 'Cormorant Garamond', serif;
+    padding: 10px;
+    padding-top: 20px;
+    background-color: #f2f2f2;
+    margin-bottom: 2rem;
+}
+.cart {
+    margin-right:10px;
+    width: auto;
+}
+.space {
+    margin-top: 2rem;
+}
+.end {
+    border-bottom-width: 0.1rem;
+    border-bottom-style: solid;
+    border-bottom-color: #ced4da;
+}
+.fix {
+    text-align: left;
+}
