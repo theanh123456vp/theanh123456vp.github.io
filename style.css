@@ -116,10 +116,5 @@ body {
     margin-top: 2rem;
 }
 .end {
-    border-bottom-width: 0.1rem;
-    border-bottom-style: solid;
-    border-bottom-color: #ced4da;
-}
-.fix {
-    text-align: left;
+    text-decoration: underline;
 }
