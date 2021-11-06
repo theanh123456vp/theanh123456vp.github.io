@@ -103,6 +103,8 @@ body {
 }
 .shop {
     font-family: 'Cormorant Garamond', serif;
+    width: 79%;
+    margin: auto;
     padding: 10px;
     padding-top: 20px;
     background-color: #f2f2f2;
@@ -117,4 +119,32 @@ body {
 }
 .end {
     text-decoration: underline;
+}
+.gioithieu {
+    color: #e4a033;
+}
+.welcom hr {
+    border-top: 2px solid #e4a033;
+    width:55%;
+    margin: auto;
+    margin-bottom: 2rem;
+    color:#e4a033;
+}
+.fa-thumbs-up, .fa-dog, .fa-cat {
+    font-size: 4em;
+    margin: 1rem;
+}
+.modau {
+    font-family: 'Comfortaa', cursive;
+    background-color: #fff;
+    padding: 2rem;
+}
+.fa-dog {
+    color: #e4a033;
+}
+.fa-cat {
+    color: #e4a033;
+}
+.fa-thumbs-up {
+    color: #e4a033;
 }
