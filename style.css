@@ -3,38 +3,13 @@
 }
 body{
     margin: 0 !important;
+    background-color: #f9e2be !important;
 }
 .slain {
     width: 80% !important;
     margin: auto;
 }
-.content {
-    background-color: #f9e2be;
-    width: 79%;
-    margin: auto;
-}
-.section-title {
-    background-color: #fff;
-    display: inline-block;
-    width: 98.5%;
-    margin: auto;
-    border-top-width: 0.2rem;
-    border-top-style: solid;
-    border-top-color: rgb(255, 102, 153);
-    font-family: "Roboto Slab", sans-serif;
-    font-weight: 700;
-    color: #f69;
-    font-size: 1rem;
-    line-height: 2.563rem;
-}
-.slide {
-    width: 88.9%;
-    margin: auto;
-}
-.footer {
-    width: 80%;
-    margin: auto;
-}
+
 .head {
     width: 83% !important;
 }
@@ -55,14 +30,81 @@ body{
     height: 7.5rem;
     width: auto;
 }
+.cart {
+    margin-right:10px;
+    width: auto;
+}
 .slogan {
     text-align: center;
     font-family: 'Dancing Script', cursive;
     margin: auto;
     text-shadow: 2px 3px 3px gray;
 }
+.navbar {
+    background-color: #f9e2be;
+}
+.slide {
+    width: 88.9%;
+    margin: auto;
+}
+.shop {
+    font-family: 'Cormorant Garamond', serif;
+    width: 79%;
+    margin: auto;
+    padding: 10px;
+    padding-top: 20px;
+    background-color: #f2f2f2;
+    margin-bottom: 2rem;
+}
+.gioithieu {
+    color: #e4a033;
+}
+.welcom hr {
+    border-top: 2px solid #e4a033;
+    width:55%;
+    margin: auto;
+    margin-bottom: 2rem;
+    color:#e4a033;
+}
+.fa-thumbs-up, .fa-dog, .fa-cat {
+    font-size: 4em;
+    margin: 1rem;
+}
+.modau {
+    font-family: 'Comfortaa', cursive;
+    background-color: #fff;
+    padding: 2rem;
+}
+.fa-dog {
+    color: #e4a033;
+}
+.fa-cat {
+    color: #e4a033;
+}
+.fa-thumbs-up {
+    color: #e4a033;
+}
 .modal-title {
     text-align: center;
+}
+.content {
+    background-color: #f9e2be;
+    width: 79%;
+    margin: auto;
+}
+.section-title {
+    background-color: #fff;
+    display: inline-block;
+    width: 98.5%;
+    margin: auto;
+    border-top-width: 0.2rem;
+    border-top-style: solid;
+    border-top-color: rgb(255, 102, 153);
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 700;
+    color: #f69;
+    font-size: 1rem;
+    line-height: 2.563rem;
 }
 .money {
     font-weight: bold;
@@ -95,56 +137,14 @@ body{
     font-size: 150%;
     padding-top: 0.3rem;
 }
-.navbar {
-    background-color: #f9e2be;
-}
-body {
-    background-color: #f9e2be !important;
-}
-.shop {
-    font-family: 'Cormorant Garamond', serif;
-    width: 79%;
-    margin: auto;
-    padding: 10px;
-    padding-top: 20px;
-    background-color: #f2f2f2;
-    margin-bottom: 2rem;
-}
-.cart {
-    margin-right:10px;
-    width: auto;
-}
 .space {
     margin-top: 2rem;
 }
 .end {
     text-decoration: underline;
 }
-.gioithieu {
-    color: #e4a033;
-}
-.welcom hr {
-    border-top: 2px solid #e4a033;
-    width:55%;
+
+.footer {
+    width: 80%;
     margin: auto;
-    margin-bottom: 2rem;
-    color:#e4a033;
-}
-.fa-thumbs-up, .fa-dog, .fa-cat {
-    font-size: 4em;
-    margin: 1rem;
-}
-.modau {
-    font-family: 'Comfortaa', cursive;
-    background-color: #fff;
-    padding: 2rem;
-}
-.fa-dog {
-    color: #e4a033;
-}
-.fa-cat {
-    color: #e4a033;
-}
-.fa-thumbs-up {
-    color: #e4a033;
 }
