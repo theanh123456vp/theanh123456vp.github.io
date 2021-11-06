@@ -56,15 +56,20 @@ body{
     background-color: #f2f2f2;
     margin-bottom: 2rem;
 }
-.gioithieu {
+.gioithieu1 {
     color: #e4a033;
 }
 .welcom hr {
     border-top: 2px solid #e4a033;
-    width:55%;
+    width:65%;
     margin: auto;
     margin-bottom: 2rem;
     color:#e4a033;
+}
+.gioithieu2 {
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
 }
 .fa-thumbs-up, .fa-dog, .fa-cat {
     font-size: 4em;
